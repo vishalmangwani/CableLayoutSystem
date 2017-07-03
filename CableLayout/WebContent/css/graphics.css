@@ -1,0 +1,14 @@
+#circle 
+{
+	width: 50px;
+	height: 50px;
+	border: 3px solid black;
+	border-radius: 50px;
+}
+#oval
+{
+	width: 200px;
+	height: 100px;
+	border: 3px solid black;
+	border-radius: 100px / 50px;
+}
